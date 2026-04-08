@@ -5,4 +5,4 @@ title: Welcome to my blog!
 
 # Wheatfield Forever!
 
-<img alt="Logo Wheatfield" src="https://github.com/WheatfieldA/Webpage-GitHub/raw/main/.jpg" width="300" align="left">
+<img alt="Logo Wheatfield" src="https://github.com/WheatfieldA/Webpage-GitHub/raw/main/WG_QC.jpg" width="300" align="left">
